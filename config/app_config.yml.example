@@ -1,0 +1,14 @@
+merchants:
+  my_b2b:
+    cust_id: 
+    cust_pwd: 
+    cust_nickname: 
+    acno: 
+    account_prefix: 
+  smile_pay:
+    merchant_id: 
+  paypal:
+    merchant_id: 
+domain_setting:
+  domain: 
+  port: 
